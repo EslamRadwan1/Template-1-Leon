@@ -197,7 +197,7 @@ body {
 }
 .landing .d-arrow{
   position: relative;
-  top: 350px;
+  top: 20px;
   transition: .5s;
 }
 .landing .d-arrow i{
